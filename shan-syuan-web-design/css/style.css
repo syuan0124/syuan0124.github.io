@@ -18,7 +18,7 @@ img{
 body{
     background-attachment: fixed;
     margin: 0;
-    font-family: sans-serif;
+    font-family: PingFang, "Noto Sans TC", "Microsoft ThengHei", sans-serif;
 }
 .wrap{
     width: 100%;
